@@ -1,6 +1,4 @@
 import Link from "next/link";
-import CardMenu from "../components/CardMenu";
-import Image from "next/image";
 import MenuCarousel from "./CarMenu";
 
 export default function Menu() {

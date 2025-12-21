@@ -15,7 +15,7 @@ const menuItems = [
     emoji: "🍛",
     price: "Rp300.000",
     desc: "Paket Besar",
-    image: "/kebuli_3.jpg",
+    image: "/kebuliKambing.jpeg",
     description: "Nasi kebuli dengan daging kambing pilihan, dimasak dengan rempah-rempah khas Timur Tengah",
   },
   {
@@ -23,7 +23,7 @@ const menuItems = [
     emoji: "🔥",
     price: "Rp300.000",
     desc: "Paket Besar",
-    image: "/menu/mandi.jpg",
+    image: "/mandiKambing.jpeg",
     description: "Nasi mandi khas Yaman dengan racikan rempah khas, disajikan dengan daging kambing lembut",
   },
   {
@@ -31,7 +31,7 @@ const menuItems = [
     emoji: "⭐",
     price: "Rp20.000",
     desc: "per porsi",
-    image: "/menu/kabsa.jpg",
+    image: "/NasgorKabsyah.jpeg",
     description: "Inovasi unik! Nasi goreng dengan rasa Kabsa autentik dan potongan daging kambing empuk",
   },
 ];
