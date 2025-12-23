@@ -125,7 +125,7 @@ export default function Menu() {
                   <div className="bg-linear-to-r from-red-50 to-white p-6 rounded-xl border-l-4 border-primary-red">
                     <div className="flex flex-col md:flex-row justify-between items-start mb-3">
                       <h4 className="text-xl font-bold text-gray-900">C. KAMBING BETINA - AQIQAH</h4>
-                      <span className="text-2xl font-bold text-primary-red">Rp2.950.000</span>
+                      <span className="text-2xl font-bold text-primary-red">Rp2.500.000</span>
                     </div>
                     <p className="text-gray-600 mb-3">Isi: Nasi Mandi (Basmati India), Kambing Rempah, Gulai, Acar, Sambal, Kerupuk</p>
                     <Link href="https://wa.me/6281213407144?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-red text-white py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-red-700 transition">
