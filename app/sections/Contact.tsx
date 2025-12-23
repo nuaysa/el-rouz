@@ -28,7 +28,7 @@ export default function Contact() {
             </h2>
             <div className="space-y-2 text-left">
               <p>Komplek Tamansari Manglayang Regency</p>
-              <p>Blok D4 No. 18 RT 04/26, Kel. Cimekar, Cileunyi</p>
+              <p>Blok D4 No. 18 RT 02/26, Kel. Cimekar, Cileunyi</p>
               <p>Bandung – 40632</p>
             </div>
             <a href="https://maps.google.com/?q=El-Rouz+Catering+Bandung" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 mt-4 text-primary-yellow font-semibold hover:text-yellow-400 transition">
