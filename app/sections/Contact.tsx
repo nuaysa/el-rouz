@@ -23,7 +23,9 @@ export default function Contact() {
           </div>
 
           <div className="bg-black/70 border-2 border-white/20 text-white p-6 sm:p-8 rounded-xl font-medium hover:bg-black/80 transition duration-300 shadow-xl mt-4 w-full max-w-lg">
-            <h2 className="text-xl flex  items-center gap-2 font-bold text-primary-yellow mb-4"><CiLocationOn/> Lokasi El-Rouz Catering</h2>
+            <h2 className="text-xl flex  items-center gap-2 font-bold text-primary-yellow mb-4">
+              <CiLocationOn /> Lokasi El-Rouz Catering
+            </h2>
             <div className="space-y-2 text-left">
               <p>Komplek Tamansari Manglayang Regency</p>
               <p>Blok D4 No. 18 RT 04/26, Kel. Cimekar, Cileunyi</p>
@@ -37,11 +39,13 @@ export default function Contact() {
 
         <div className="flex-1 flex flex-col justify-center items-center p-8 md:p-12 space-y-6 bg-linear-to-b from-primary-red/90 to-red-900/90 md:from-transparent md:to-transparent">
           <Link
-            href="https://wa.me/6281234567890?text=Halo%20El-Rouz%20Catering%2C%20saya%20ingin%20memesan%20atau%20bertanya%20tentang%20menu"
+            href="https://wa.me/6281213407144?text=Halo%20El-Rouz%20Catering%2C%20saya%20ingin%20memesan%20atau%20bertanya%20tentang%20menu"
             target="_blank"
             className="w-full max-w-md bg-linear-to-r from-green-500 to-green-600 text-white py-4 px-6 rounded-xl font-bold text-lg hover:shadow-2xl hover:scale-105 transition duration-300 shadow-lg flex items-center justify-center gap-3"
           >
-            <span className="text-2xl"><FaWhatsapp/></span>
+            <span className="text-2xl">
+              <FaWhatsapp />
+            </span>
             <span>PESAN VIA WHATSAPP</span>
           </Link>
 

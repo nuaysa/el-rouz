@@ -108,7 +108,7 @@ export default function MenuCarousel() {
                   <p className="text-gray-600 mb-6 grow line-clamp-3 min-h-18">{item.description}</p>
                   <div className="mt-auto pt-2">
                     <Link
-                      href={`https://wa.me/6281234567890?text=Halo%20El-Rouz%2C%20saya%20ingin%20memesan%20${encodeURIComponent(item.title)}`}
+                      href={`https://wa.me/6281213407144?text=Halo%20El-Rouz%2C%20saya%20ingin%20memesan%20${encodeURIComponent(item.title)}`}
                       className="w-full bg-linear-to-r from-primary-red to-orange-500 text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition duration-300 inline-block text-center hover:shadow-md"
                       target="_blank"
                     >

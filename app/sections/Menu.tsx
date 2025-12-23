@@ -14,7 +14,7 @@ export default function Menu() {
           <div className="w-32 h-1 bg-linear-to-r from-primary-yellow via-primary-red to-orange-500 mx-auto rounded-full"></div>
         </div>
 
-           <div className="mt-12">
+        <div className="mt-12">
           <MenuCarousel />
         </div>
 
@@ -95,7 +95,7 @@ export default function Menu() {
                       <span className="text-2xl font-bold text-primary-red">Rp2.300.000</span>
                     </div>
                     <p className="text-gray-600 mb-3">Isi: Nasi Mandi (Beras Lokal), Kambing Rempah, Gulai, Acar, Sambal, Kerupuk</p>
-                    <Link href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-red text-white py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-red-700 transition">
+                    <Link href="https://wa.me/6281213407144?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-red text-white py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-red-700 transition">
                       Pesan Paket Ini
                     </Link>
                   </div>
@@ -106,7 +106,7 @@ export default function Menu() {
                       <span className="text-2xl font-bold text-primary-yellow">Rp3.950.000</span>
                     </div>
                     <p className="text-gray-600 mb-3">Isi: Nasi Mandi (Beras Lokal), Kambing Rempah, Gulai, Acar, Sambal, Kerupuk</p>
-                    <Link href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-yellow text-gray-900 py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-yellow-500 transition">
+                    <Link href="https://wa.me/6281213407144?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-yellow text-gray-900 py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-yellow-500 transition">
                       Pesan Paket Ini
                     </Link>
                   </div>
@@ -128,7 +128,7 @@ export default function Menu() {
                       <span className="text-2xl font-bold text-primary-red">Rp2.950.000</span>
                     </div>
                     <p className="text-gray-600 mb-3">Isi: Nasi Mandi (Basmati India), Kambing Rempah, Gulai, Acar, Sambal, Kerupuk</p>
-                    <Link href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-red text-white py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-red-700 transition">
+                    <Link href="https://wa.me/6281213407144?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-red text-white py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-red-700 transition">
                       Pesan Paket Ini
                     </Link>
                   </div>
@@ -139,7 +139,7 @@ export default function Menu() {
                       <span className="text-2xl font-bold text-primary-yellow">Rp3.500.000</span>
                     </div>
                     <p className="text-gray-600 mb-3">Isi: Nasi Mandi (Basmati India), Kambing Rempah, Gulai, Acar, Sambal, Kerupuk</p>
-                    <Link href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-yellow text-gray-900  py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-yellow-500 transition">
+                    <Link href="https://wa.me/6281213407144?text=Halo%20saya%20ingin%20memesan%20katering" className="w-full bg-primary-yellow text-gray-900  py-3 px-4 mt-4 rounded-lg font-semibold hover:bg-yellow-500 transition">
                       Pesan Paket Ini
                     </Link>
                   </div>
@@ -152,7 +152,7 @@ export default function Menu() {
                 <strong>📝 Catatan:</strong> Harga di atas adalah harga paket <strong>per 50 box</strong>. Untuk penyesuaian porsi dan menu, silakan hubungi kami.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center mt-6">
-                <Link href="https://wa.me/6281234567890?text=Halo%20saya%20ingin%20memesan%20katering" className="bg-primary-red text-white px-8 py-3 rounded-full font-bold hover:bg-red-700 transition">
+                <Link href="https://wa.me/6281213407144?text=Halo%20saya%20ingin%20memesan%20katering" className="bg-primary-red text-white px-8 py-3 rounded-full font-bold hover:bg-red-700 transition">
                   📞 Hubungi Kami
                 </Link>
               </div>
